@@ -3,5 +3,7 @@
 #include "main.h"
 
 void swerve();
+void turn();
+void zero();
 
 #endif
